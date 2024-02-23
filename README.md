@@ -1,0 +1,7 @@
+-  Hi, I’m @msn-21, but you can call me Mason. I have a game site which I put games on for me and my friends.
+-  I’m interested in coding, obviously, but I also like sports.
+-  I’m currently learning how to code, and to make my site better.
+-  I’m looking to collaborate on finding games. If you have a repo or html file, you should send it over!
+-  How to reach me: msn21.contactme@gmail.com
+-  Pronouns: he/him
+-  Fun fact: My favorite color is red, which you can see in the logo on my website.
